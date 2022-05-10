@@ -1,0 +1,885 @@
+{
+  "lorebookVersion": 4,
+  "entries": [
+    {
+      "text": "\"Tsundere\" is a term for a character who acts rude, cold, and hostile towards their love interest in order to conceal their warm and caring feelings. Tsundere characters are characters who pretend not to be interested in someone, even though their liking is very obvious. They will do things for their love interest, such as making them lunch or buying them stuff, but will insist that they don't like them and make up cheap excuses to try and save face.\n\nTsundere characters are not honest with themselves, or at the very least, will refuse to be honest with others so as to not damage their pride.\n\nTsundere characters refuse to hear what others have to say. They say \"hmph!\" or \"tch!\" and turn away, but they will eventually turn back, out of love for the other person.\n\nTsundere characters are very prideful, carrying themselves with a \"holier than thou\" attitude at all times. A tsundere might act like this because they come from a legitimate place of power, such as being a part of a rich family or being a part of the student council, but many of them do not have a good reason for their ego.\n\nFrom a psychological standpoint, a tsundere character's behavior can be considered an example of \"splitting\", a coping mechanism in which someone idealizes and undervalues others.\n\nA tsundere character is not a character who plays hard to get. Characters who act like that deliberately choose not to get with their love interest until they know for sure that they truly love them, whereas a tsundere character's denial is about hiding their already existing feelings to protect their pride.\n\nTsundere is a similar term to himedere, oujidere, and kamidere, since they are all quite arrogant. However, himedere, oujidere, and kamidere characters are much more arrogant than tsundere characters, wanting to be treated like princesses, princes, and gods, respectively. Tsundere characters are more defensive than these more arrogant characters as well, being unable to brush off comments that they take offense to like they could.\n\nTsundere is a similar term to hinedere, since they are both quite arrogant. However, hinedere characters are less short-tempered and more arrogant than tsundere characters, not to mention more cynical. Hinedere characters want to be the best at everything, while tsundere characters just want to look good in front of people they care about.\n\nTsundere is a similar term to bokodere, since they both act aggressively towards their love interest. However, bokodere characters are much more shy than tsundere characters, only becoming aggressive when they feel embarrassed. Bokodere is considered to be a combination of tsundere and dandere.\n\nTsundere is a similar term to kitikudere, since they both act aggressively towards their love interest. However, kitikudere characters are much meaner than tsundere characters, genuinely bullying their love interest in order to keep their feelings hidden. They won't just hurt their love interest, either, usually having a reputation as a bully or a delinquent among all of their peers.\n\nKiredere is another dere type that can be considered a variation of tsundere, with kiredere characters having an excess of both the \"tsun\" and \"dere\" sides of a tsundere, making them care deeply for their love interest, but exerting it in a very harsh way by trying to make their love interest improve themselves.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181310201,
+      "displayName": "Tsundere",
+      "id": "e79a0a23-effe-47eb-9b7c-09dc1565b5c5",
+      "keys": [
+        "Tsundere",
+        "tsundere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Chuunibyou is a Japanese colloquial term typically used to describe early teens who have grandiose delusions, who desperately want to stand out, and who have convinced themselves that they have hidden knowledge or secret powers. It translates to \"second year syndrome\" (i.e., middle-school second-year), and has been called \"eighth-grader syndrome\" in English-speaking countries.[1]",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652177577680,
+      "displayName": "Chuunibyou",
+      "id": "018c1a85-eb3d-4aa9-994a-59a7aeb98fa9",
+      "keys": [
+        "Chuunibyou",
+        "Chuuni",
+        "chuunibyou",
+        "chuuni"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Megumin is a 15 year-old archwizard who is part of the Crimson Demons race – modified humans who possess dark brown hair, crimson eyes, powerful magic affinity, and chuunibyou characteristics with an eye patch for aesthetic reasons. Megumin only knows a single, incredibly powerful Explosion spell that immediately depletes her mana and incapacitates her after a single use, and refuses to learn any other skills.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652177568628,
+      "displayName": "Megumin",
+      "id": "2451779a-8d72-41fa-822f-0fe75db64e5c",
+      "keys": [
+        "Megumin",
+        "megumin"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "17a9d558-220e-4fb3-a00e-cddb69bc0312",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Yandere is a Japanese archetype used to define a character whose love, admiration, and devotion is so strong that it is expressed as an excessive obsession and possessiveness. They are often seen as characters that are crazy in love with someone.\n\nThey become so attached to their love interests so that it's impossible to let go. They entrust themselves to their love interest, trusting in their love interest's kindness. They probe the deepest recesses of their love interest's heart so as to more perfectly form their greatest self within their love interest. Some will go so far as to behave in immoral and troubling ways. They will not care about the negative effect that their behaviors can have to others, including their love interest, because they only care about their own feelings.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652179591684,
+      "displayName": "Yandere",
+      "id": "f7844d08-2c6b-4220-871f-efb033246aa6",
+      "keys": [
+        "Yandere",
+        "yandere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Deredere characters are usually very sweet and energetic. They are seen most of the time in a cheerful and happy mood and they tend to spread joyfulness to the ones around them. No matter what may happen, they quickly revert to their cheerful self. The deredere archetype differs from the other dere types by its usual acceptance if the love interest rejects them, since this dere type is purely lovey-dovey almost all the time. While they can be in love with someone, they are still able to develop their characters separate from them along a different path.\n\nThe biggest difference between other dere types is that deredere characters don't find it strange for someone else to be getting along with the person they love, as long as they’re not doing anything harmful to them. They're alright even if their love interest starts dating with someone else because that’s just how kind they are. As long as they are happy, the deredere won’t start up a huge fuss with whatever happens in the end. They’ll even be nice to their rivals and have fun in the process.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652179773869,
+      "displayName": "Deredere",
+      "id": "df107d23-db21-4397-8b3b-e6260f99428f",
+      "keys": [
+        "Deredere",
+        "deredere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Dandere\" is a character who has an anxious personality. They are quiet, timid and asocial. They are afraid to talk, fearing that what they say will get them in trouble.\n\nDandere characters will normally be quiet and silent, possibly to the point of coming across as emotionless at times. However, they will suddenly become talkative and sweet when alone with the right person if they are comfortable enough to pour their heart out, revealing that they're actually just shy.\n\nA dandere will more or less act like a normal person, but will not talk unless spoken or required to. They will avoid talking because of their shyness, but if they need to, they will speak, sometimes with some difficulty or embarrassment.\n\nA dandere tends to feel more comfortable when surrounded by more people. If another unfamiliar person is introduced when the dandere is with a group that they're comfortable with, then the shyness of the dandere will decrease.\n\nThe difference between a dandere and a kuudere is that a dandere character may be nervous or shy inside (not calm), which cause them to not want to talk too much with people because of their insecurity, while a kuudere character can speak while retaining their serenity (are calm) but will prefer to stay silent or will think that speaking is unnecessary. In other words, any dandere character will be flustered if prompted to speak, unlike kuudere characters who have no problem responding if necessary. Furthermore, both of these dere types distance themselves from others for different reasons, making them mostly lack true friendships with others as a hermit or a hikikomori (someone with acute social withdrawal,) in society.\n\nA dandere character feels very sensitive to criticism from others and they feel inferior, even if they desire true friendships or romance with others. On the contrary, a kuudere character thinks that there is nothing wrong with not having any relationships with others and they'd rather be completely alone, due to being completely shunned by society.\n\nThe difference between a dandere and a hajidere is that dandere characters are shy and quiet in front of people they don't know. Hajidere types are only shy towards a certain person, who is normally their love interest.\n\nThe difference between a dandere and a bokodere is that dandere characters can get really nervous and will try to hide from others when embarrassed, while a bokodere will become more aggressive when someone makes them blush, similar to \"Tsundere\" characters.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652179985680,
+      "displayName": "Dandere",
+      "id": "5796ae74-ebd9-4161-922c-f5eb28724c33",
+      "keys": [
+        "Dandere",
+        "dandere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A Kuudere is a character who is calm and collected on the outside and never panics. They show little emotion, and in extreme cases, are completely emotionless, but they may be hiding their true feelings deep down.\n\nA kuudere refers to a character who is often cold, blunt, and cynical. They may seem very emotionless and stoic on the outside, but on the inside, they’re very caring, at least when it comes to the ones they love.\n\nKuudere are those characters that look expressionless, won't react to whatever the love interest says, doesn't get jokes, and are most likely regarded as some sort of genius of high IQ. These characters are usually designed with hair colors of white, blue, or other cold colors.\n\nThe point of kuudere is that though they're introduced as something like moving ice statues. As they develop their relationship for the other person, they start opening up and even showing expressions like smiling slightly over time.\n\nIn some cases, a kuudere will completely melt or break their ice armor, start crying or screaming \"I love you\". This is when a kuudere goes from \"kuu\" mode to \"dere\" mode. It's one of the possible developments when you have a kuudere archetype.\n\nAllegorically speaking, a kuudere is like snow: it may be cold and harsh at first glance, but it is also what keeps autumn's seeds warm and safe until spring. Similarly, while perhaps appearing apathetic and awfully pragmatic, it is but a frosty exterior that protects their tender, delicate feelings deep underneath, waiting for someone to melt the snow and allow them to blossom.\n\nKuudere characters often speak in a calm monotone and seem unaffected by the world around them. They never seem to be very happy, excited, or surprised, just as they never appear sad, annoyed, or angry as well. Extreme examples may even seem to be completely emotionless like robots. It is used to describe characters who always remain calm and composed. Though they act serious on the outside, they often have a very good, sarcastic sense of humor.\n\nThey tend to deeply care and love someone and they have a good personality when you know them, but are afraid to show it too often, because they view it as a weakness. It is either because of who they are, or because of the situation they are in. More often than not, they come off as emotionless, acting very cold, blunt and cynical.\n\nDespite disliking to be in charge of a group, they also tend to be leaders who are always in charge of a situation due to their calm, clear-headed and respectable attitude, even in tricky situations. Kuudere characters can be the class presidents that keep their schools running. Other times they take the form of stoic, professional assistants to superiors that they love and respect.\n\nWhile a kuudere remains uninterested and unsympathetic, they are emotional or empathetic underneath their self-control. However, they tend to fear showing any weakness, such as admitting to liking someone or coming to rely on someone emotionally as well as professionally. Some are unclear as to how to even express their emotions, and, in extreme cases, are unsure what feelings actually mean.\n\nThe difference between a kuudere and a dandere is that dandere characters don't talk with people due to their shyness, while kuudere characters chose willingly to not talk, only doing so when necessary and even then they will speak with perfect tranquillity. The dandere archetype is nervous and embarrassed with others, contrary to kuudere, who doesn't show emotions and can control their feelings. Furthermore, both of these dere types distance themselves from others for different reasons, making them mostly lack true friendships with others as a hermit or a hikikomori in society. A dandere character feels very sensitive to criticism from others and they feel inferior, even if they desire true friendships or romance with others. A kuudere character thinks that there is nothing wrong with not having any relationships with others and they rather be completely alone.\n\nAlternatively, some kuudere characters have some form of neurological disability that affects their ability to communicate, which makes them respond in a robotic-like voice to others, makes them unable to pick up social cues, and makes them only interested in their restricted hobbies, preventing themselves from maintaining true friendships.\n\nThe darudere type might share the majority of similarities with a kuudere, due to both being distant and uncaring to what others have to say to them. However, a darudere will be more in the sluggish side than the uncaring side, as they will help out others when really necessary.\n\nThe utsudere type is often compared similarly to kuudere, due to them being calm and cool to others. On the contrary, utsudere characters show more emotions of being miserable and hurt. A kuudere will just want to be left alone, as a lone wolf, in peace without any drama occurring in their lives.\n\nThe difference between a kuudere and a hinedere is that kuudere characters don't care about some things, making them look expressionless in a lot of situations, while hinedere characters show a similar expression due to annoyance, being hateful or feeling cocky. Hinedere characters will snap easily at people if they begin to irritate them, while a kuudere will remain calm and will not care at all.\n\nDue to the way a kuudere acts, a yandere or yangire can easily pretend to be a kuudere when not acting insane.\n\nThey can also be mistaken with tsundere, due to how a kuudere can sometimes reply to others without thinking about how the other person would feel, mainly tsundra characters. The difference is how a kuudere will respond to everything unemotionally and may insult nonchalantly without realizing how this can hurt other people, while a tsundere will be more aggressive and start insulting because they feel embarrassed, sometimes knowing very well that this can hurt others.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652180045604,
+      "displayName": "Kuudere",
+      "id": "f267724c-e710-4cf9-b65a-d2cd56bcb292",
+      "keys": [
+        "Kuudere",
+        "kuudere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Hajidere\" refers to a character who is really nervous and embarrassed around their crush. Their shyness either only appears when they are around or interacting with their love interest or intensifies even more around them if the hajidere is normally shy.\n\nHajidere characters will get nervous (such as blushing, sweating, stuttering, being somewhat passive, and having trouble breathing) around their crush like a dandere character would, but in a much more extreme way. This also happens only or mostly around their love interest instead of with other people, whom hajidere characters are mostly calm around.\n\nThey can be social, outgoing, and confident in front of everyone else, unlike a dandere. However, some hajidere characters can still be very much like a dandere by being shy in front of everyone, but in a more extreme way around their crush.\n\nEven if hajidere characters will avoid being in close proximity with their crush and to keep their conversation very short by saying \"hi\" to them every time they see their crush, distancing themselves away from them, and telling them politely to leave, they will spy on their crush from afar without their crush looking at them.\n\nThey will constantly blush very near their love interest, and might even faint from being so bashful. They have a ton of trouble confessing, so the love interest should make the first move, although if they do, the hajidere might even faint before they answer.\n\nThe difference between a hajidere and a bokodere is that hajidere characters can get really nervous and will try to hide from their love interest when embarrassed, while bokodere characters will become more aggressive or enraged when someone makes them blush, similar to tsundere characters.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652180126747,
+      "displayName": "Hajidere",
+      "id": "72c46272-b5a3-46c5-b78e-8d7be4a05dc7",
+      "keys": [
+        "Hajidere",
+        "hajidere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Bokodere\" refers to a character who is typically shy around those they’re infatuated with. They get embarrassed easily and will lash out to hide their shyness and love feelings. They only know how to use their fists when flustered despite not really wanting to hurt their love interest.\n\nAs the plot progresses and with the help of their love interest, they will feel less flustered and will gain control over their aggressive impulses.\n\nBokodere characters don’t know how to handle their embarrassment and use their fists instead of their words. They are similar to the dere type tsundere in that aspect, the main difference is the lack of dialogue with a bokodere.\n\nThey are similar to a combination of tsundere and dandere. They usually behave like dandere or hajidere characters until someone makes them blush, which will make them respond aggressively like a tsundere.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652180177075,
+      "displayName": "Bokodere",
+      "id": "6bcca27e-d584-4940-a6f0-01da6d67ec0b",
+      "keys": [
+        "Bokodere",
+        "bokodere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "\"Bokukko\" is a term for a female character who is a tomboy and acts and looks boyish. Bokukko are females who have tastes and behaviors usually associated with boys. They speak and act in a boyish type of manner and are confident, competitive, and can be rough around the edges.\n\nThese characters have interests and skills which are usually considered \"boyish\" and \"manly\", and lack interest in what is seen as \"girly\". They will have interests seen as tomboyish or more common in males, like sports, vehicle mechanics or combat.\n\nA lot of tsundere characters could also be Bokukko due to their tough behaviour when their \"tsun\" side acts up, which is sometimes seen as tomboyish. Despite this, not all Bokukko characters are tsundere and not all tsundere characters are tomboys, although this is a combination that is used frequently.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652180401857,
+      "displayName": "Bokukko",
+      "id": "ab9309ba-7bfd-44d7-b0f6-bcca85c4c590",
+      "keys": [
+        "Bokukko",
+        "bokukko"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A tomboy is a girl who exhibits characteristics or behaviors considered typical of a boy. Common characteristics include wearing masculine clothing and engaging in games and activities that are physical in nature and are considered in some cultures to be unfeminine, or the domain of boys.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652180448649,
+      "displayName": "Tomboy",
+      "id": "58ca225b-46fa-4842-a150-9ed388e7eb4e",
+      "keys": [
+        "Tomboy",
+        "tomboy"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Himedere\" refers to a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty.\n\nHimedere characters have a princess complex. They can be real princesses or only want to be treated like royalty.\n\nHimedere characters demand to be treated like royalty by their loved ones, they can really be princesses or only think that they are in a higher position to others. Consequently, they should be treated as such and admired by those they think are inferior to them.\n\nThey usually get any kind of work done by having other people do it. They give orders to everyone around them. They put themselves first in any situation, not caring about others. The only exception is the one they love, although they may hide their love for their love interest at first. They always want perfection and success everywhere, from everyone and from themselves.\n\nA himedere may have a history that shows the root of their insecurities. Specific moments of abandonment, neglect, and betrayal have commonly been the cause for the himedere's behavior. The purpose of a himedere's backstory is to explain what triggered their power-seeking behavior, and who in their life is sympathetic to their past.\n\nA himedere can be truly befriended by the few who can see past their ego. Sometimes, the himedere takes their companions for granted and chooses to treat them unfairly. Those who tolerate her either let the himedere walk all over them or retaliate eventually, but there is usually a sense of loyalty or a strong bond that is difficult to break.\n\nThis type of character is one who has traits of a stereotypical, snooty princess, and comes off at first as arrogant, self-centered, and vain. Still, they have the capacity for love and friendship and often will soften over time, learning a valuable lesson in the process.\n\nHimedere characters are somewhat distinctly related to tsundere characters and have a similar personality. They will insult their love interest, acting like they're not interested when they actually care about them. The difference between the two is how himedere characters have a princess/superiority complex, sometimes acting like a diva or a queen bee and being very demanding of other people. On the other hand, tsundere characters are more prone to being easily triggered over trivial opinions or harmless jokes of others, and they will lash out against them for revenge for no apparent reason.\n\nThey are very really similar to a hinedere when it comes to fighting for power and status. The difference of this dere type with hinedere is that himedere is a big attention-seekers and a loudmouths when it comes to being praised by many people around them in a large crowd. As for a hinedere, they will only get attention from a few people in a small social circle behind close doors.\n\nKamidere is also seen as an extreme version of himedere and oujidere, but instead of having a royalty complex, they have a deity complex and sometimes more power and ambition than himedere and oujidere.\n\nA himedere character's behavior is like a spoiled brat, but with a princess complex. The kinder and more mature version of this dere is oujodere, who act like gentle, kind, princesses and only insist others to treat them differently in fulfillment of their responsibilities.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181402751,
+      "displayName": "Himedere",
+      "id": "f162bf58-6df9-4674-8a56-c59b6c2d6f55",
+      "keys": [
+        "Himedere",
+        "himedere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "An \"Oujidere\", sometimes spelled \"Ōjidere\", refers to a character who wants to be treated like a prince or a king by the person he loves, even if he is not actual royalty.\n\nOujidere characters have a prince complex. They can be real arrogant princes or only want to be treated like royalty.\n\nOujidere characters, much like their female counterpart called himedere, demand to be treated like royalty by people, including loved ones. This doesn't always mean that they are really royalty. It's possible that they simply lord themselves over others, who the oujidere will demand to treat him like a prince.\n\nThey usually get any kind of work to be done by other people, giving orders to everyone around them. They put themselves first in any situation, not caring about others, except the one they love, even if they may hide it at first. They always want perfection and success everywhere, from everyone and themselves.\n\nThey are very really similar to a hinedere when it comes to fighting for power and status. The difference of this dere type with hinedere is that oujidere is a big attention-seekers and a loudmouths when it comes to being praised by many people around them in a large crowd. As for a hinedere, they will only get attention from a few people in a small social circle behind close doors.\n\nKamidere is also seen as an extreme version of oujidere and himedere, but instead of having a royalty complex, they have a deity complex and sometimes more power and ambition than oujidere and himedere.\n\nLastly, they are kind of related to a hiyakasudere, because an oujidere and hiyakasudere both can fight for attention in their rivalry with other characters. The difference of this dere types with a hiyakasudere is that an oujidere will want to be praised by other people around them, so that they feel superior. On the other hand, a hiyakasudere will praise others and try to seduce people by using their attractiveness and charm to win their hearts. They will frequently tease their love interest from time-to-time. An oujidere doesn't see it necessary to flirt with other people, because it's below them. They see themselves as perfect and that they deserve the attention. They are also very picky (or at least they make it seem so), when they must choose a love interest, while a hiyakasudere usually go after anyone who catches their attention.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181397455,
+      "displayName": "Oujidere",
+      "id": "af0524ff-9a33-4284-acc5-84e6cb3a0234",
+      "keys": [
+        "Oujidere",
+        "oujidere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Kamidere\" refers to a character with a god complex, making them self-centered and arrogant towards those they see as inferior to them and who are not deserving of their time.\n\nThey will demand to be treated like the perfect being they think they are by others, included those they like.\n\nKamidere characters believe that they are a god or a superior being. They feel that they are in a higher position, compared to others, even if they aren't actually a deity and are just humans or of the same species as the other characters. They are also highly arrogant and proud, and aren’t afraid to speak their minds and show everyone how right they are.\n\nThey are considered an extreme version of himedere, oujidere and hinedere characters. They believe that they are the most perfect and infallible beings, and think they should get special attention and priority. Their pride makes them highly arrogant, overconfident and stubborn.\n\nKamidere characters think that they are better than everyone and that they are always right. If they don't share the same species or position as the protagonists or other characters, they will also act like these groups are inferior to them, and in extreme cases, will mass-exterminate them. They will be even more arrogant and proud if they are an actual deity and the other characters are not.\n\nThose who act like gods but are not deities usually live in their own fantasy world where they see themselves as the most powerful creature, which can confuse the other characters.\n\nThere are different types of kamidere characters. The sweetest and more \"dere\" version of kamidere will show a somewhat prideful personality, thinking they are amazing, powerful, and admired by others. At the same time, they will show respect towards other characters and beings. It is very likely that this type of kamidere actually has the wrong idea of their true power or the real view of others towards them, usually shown in a comical way.\n\nAnother type of kamidere acts lordly, pridefully, selfishly, arrogantly, over-confidently, and oftentimes, narcissistic, like the regular kamidere. But, the difference is that this type of kamidere actually knows they’re not a god, but acts superior somehow or wants others to treat them like that anyway.\n\nSome of these characters can also want to become mighty and powerful gods because they see themselves worthy of it. It's because of this that a great amount of kamidere characters can be villains or antagonists, but not all of them have to be.\n\nSometimes this is just an act; where the character is afraid to show their true personality. Therefore, the kamidere will eventually show their more \"dere\" side when their ”kami“ exterior is broken.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181451108,
+      "displayName": "Kamidere",
+      "id": "f4327f5f-3041-43b4-a766-669d603d1a0a",
+      "keys": [
+        "Kamidere",
+        "kamidere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Hinedere\", also known as \"Hinodere\" in some media, refers to characters who have cynical world views, are cold-hearted, and are highly arrogant. They will get easily annoyed by other people, included the love interest at first.\n\nHinedere characters, despite their exasperate and arrogant personality, have a soft side deep down that may reveal itself once their love interest breaks through.\n\nThey are really similar to an oujidere, himedere and kamidere when it comes to fighting for power and status. The difference of these dere types with hinedere is that oujidere, himedere, and kamidere characters are big attention-seekers and a loudmouths when it comes to being praised by many people around them in a large crowd. As for a hinedere, they will only get attention from a few people in a small social circle behind close doors.\n\nA hinedere will turn hostile and annoyed towards a few people around them because of their ego, mostly when they are acknowledged and trusted by those who are closest to them. When other people call out a hinedere for their behavior or turn out to be a burden for the hinedere, they will be given the silent treatment and they will get cut off entirely by the hinedere.\n\nAlthough a hinedere is considered to be distinctly related to a tsundere due to being prompted to get annoyed easily with others, a hinedere is more wise about controlling their rage and hatred than a tsundere and they are much more overconfident than a tsundere is.\n\nThere are some similarities between a hinedere and a kuudere when it comes to both dere types being quiet, not liking large crowds and being distant from others. However, unlike a kuudere who has a hard time showing feelings to others due to their emotionless state, a hinedere shows much more emotions than a kuudere, although usually the more arrogant and fed up ones.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181528383,
+      "displayName": "Hinedere",
+      "id": "821627da-9063-41ac-a7a2-b8086ef2b2ee",
+      "keys": [
+        "Hinedere",
+        "hinedere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A Kitikudere, also known as Thugdere in some media, is someone who acts as a bully and often mistreats others and their love interest, harming them physically or emotionally to hide their true feelings.\n\nThey are characters who usually mistreat other people including their love interest, either physically or emotionally harming them. However, they can also be quite affectionate in certain situations, with some people, or after getting used to the other person. This brutality is often a way they hide their sweet, caring, and loving side. They might even think their sweet side makes them look weak or foolish and this way they can prevent getting hurt by hurting others instead.\n\nKitikudere characters are more rude than tsundere and usually use a lot of curse words or insults. The kitikudere may simultaneously use violence towards people as well. Unlike a yandere, they are less calculating and don't do violence because of their love, unless completely necessary. They will not reach the point of killing anyone, at least not innocent people and loved ones.\n\nUnlike sadodere or hiyakasudere, they will only harm or make fun of others to appear stronger and dangerous in front of other people, not because they actually enjoy the pain they can do, but rather to hide their true personality so other people will fear them. In the same way, they will never do so much harm that it will greatly affect those they appreciate, and they may feel bad if this happens accidentally.\n\nBeing mostly bullies, it's very likely that either they are always alone, or that they are in a group with other bullies like them. Sometimes they're even the leader of a gang. It's also possible that some kitikudere characters are involved in dangerous situations in their life with something that can bring problems to those around them too. So, they decide to mistreat anyone who tries to get close to them to protect their love interest from themselves. This is especially true with those they really love, which can make them feel really bad every time -- even if they hide it. Even if it hurts the kitikudere, they will continue to make others fear them so that everyone will end up hating them on purpose and avoid them. This prevents said people from being the focus of attention of those who really want to harm the kitikudere and people related to them.\n\nEven if it doesn't have to be like this, some kitikudere characters can also be a mayadere too (part of the enemy team), until they realize their mistakes. The difference with both is that mayadere characters are usually villains that really want to hurt and even kill the protagonists at first, while kitikudere characters can be normal people that sometimes mistreat and bully the main character.\n\nOver time, they will realize that violence is not the only solution. This is often thanks to other characters and their love interest, who will help them manage to see their true self, making them less and less aggressive. This can reach the point of the kitikudere trying not to use violence so often or only jokingly insulting their loved ones, similar to hiyakasudere. That's why it's possible for some kitikudere characters to turn into a hiyakasudere or tsundere with some time and tender loving care.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181606792,
+      "displayName": "Kitikudere",
+      "id": "c853ce60-9537-4df3-9078-d0f273525a1b",
+      "keys": [
+        "Kitikudere",
+        "kitikudere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "\"Kiredere\" is a term for a character who acts rude and harsh towards their love interest in hopes that they will better themselves.\n\nKiredere characters are characters who try to get their love interest to improve themselves by acting very harshly towards them, like an overly critical personal trainer. They figure that making rude comments will make their love interest reflect upon themselves, but it usually just makes them feel hurt.\n\nA kiredere can target a number of different factors that they find unpleasant in their love interest and will act accordingly. For example, if they think that they are unfit, they might make them start lifting weights or will limit their diet. Even though their love interest will probably think that they do these things because they hate them, they do it because they don’t want to see them get sick or hurt because they aren’t strong enough to properly defend themselves.\n\nKiredere characters don’t act harshly towards their love interest out of arrogance like a himedere, kamidere, or a kitikudere might, nor out of malice or playfulness like a sadodere or hiyakasudere. Rather, they do it to be kind, even if it doesn’t come across very well.\n\nKiredere characters can be considered to be a type of tsundere that have an excess of both \"tsun\"' and \"dere\".",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181682507,
+      "displayName": "Kiredere",
+      "id": "01a97e7f-6974-4f9b-a348-7bdc235fd068",
+      "keys": [
+        "Kiredere",
+        "kiredere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A \"Sadodere\" refers to a character who has a sadistic personality. They enjoy playing with their love interests' feelings, and are commonly referred to as a 'mean tease'.\n\nThey are the counterpart and compatibility of masodere.\n\nA sadodere is a troublemaker who enjoys manipulating others feelings, commonly taking pleasure from it. It is common that a sadodere will play with their love interest's emotions and humiliate them as well.\n\nSadodere characters are typically defined by their sadistic tendencies, and can be violent and cruel to others and even more cruel and violent to loved ones. They always have a severe lack of empathy, however, some characters that are sadodere can redeem themselves. A sadodere is known to hurt others physically and emotionally because they want to and because they feel pleasure from doing it.\n\nThey are the perfect match with masodere characters. While both dere types love humiliation and pain, sadodere characters enjoy inflicting this on others, mostly to loved ones, while masodere characters enjoy when this is inflicted on themselves, mostly by loved ones.\n\nUnlike sadodere, a dorodere will not necessarily enjoy hurting their love interest in a slow way, and they will only do it as quickly as they can because they see it as a necessary thing to do. Dorodere characters will see their love interest only as an obstacle or a tool in their mission, and will eventually get crazy obsessed with them.\n\nAlthough a sadodere enjoys hurting people, they will feel more pleasure when hurting loved ones. That's why this dere type can be confused with yandere. The difference between a yandere and sadodere is that a sadodere character enjoys doing harm, while a yandere character will only harm others to prevent them from taking their crush away from them. Yandere characters can also hurt their love interest, but they do it to get what they perceive to be a positive outcome. Yandere characters don't feel any pleasure in harming their love interest or other people. It's also possible, for a character to be both dere types and feel pleasure like a sadodere while doing these yandere actions.\n\nA more ethical version of this dere would be hiyakasudere characters, who don't like torturing their love interest to death to feel good. They also only want attention from their love interest which they extract in a seductive and teasing manner.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181749320,
+      "displayName": "Sadodere",
+      "id": "2aabdcb9-f139-4d4f-88a5-7b3dacf599f6",
+      "keys": [
+        "Sadodere",
+        "sadodere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A Hiyakasudere, also known as Teasedere in some media, refers to a character who likes to tease others and sometimes flirt with those they like.\n\nThey will act really seductive in front of other people, mainly those that attract their attention, and will tease those that get embarrassed easily by their actions and words, possibly the love interest.\n\nHiyakasudere characters, also known as Teasedere in some media, are sarcastic, mischievous or at least playful at heart, and sort of like a flirt as they tease people they like. Inside, however, some of them who are just only super seductive care a lot for their love interest, and tease them even more.\n\nThis is a more mild and gentle version of erodere. While hiyakasudere characters will only try to flirt with the love interest, the erodere will be much more direct and suggest, think and talk about more intimate acts and situations. Erodere characters will be more dirty when talking, while hiyakasudere characters will be more charming instead, but respectful of what they can arrive to say, usually just trying to be seductive enough to tease a little bit the love interest or gain their hearts.\n\nHiyakasudere is often an extension of tsundere. The majority of the hiyakasudere characters can be also a bit tsundere, although they will not be the harsh or angry type; rather, they will be more like the deredere type.\n\nThey are also really similar to oujidere and himedere when it comes to fighting for attention. The difference of these dere types with hiyakasudere is that both dere types, having a royalty complex, will want to be praised by other people around them, so that they feel superior. Hiyakasudere characters will praise others and try to seduce people instead with their attractiveness and charm to win their hearts. They will frequently tease their love interest from time-to-time. Oujidere or himedere characters don't see it necessary to flirt with other people, because it's beneath them, as they see themselves as perfect and that they deserve the attention. They are also very picky (or at least they make it seem so), when they must choose a love interest, while a hiyakasudere usually go after anyone who catches their attention.\n\nThere are characters that also can be a hiyakasudere and himedere/oujidere at the same time, or show signs of the other dere types. It's possible for a himedere or oujidere character to flirt like a hiyakasudere sometimes. Likewise, it's possible for a hiyakasudere to like the attention they gain from people after using their charm, thus growing their ego.\n\nHiyakasudere is also much like sadodere, who like to toy around with their love interest like a hiyakasudere does. However, a hiyakasudere does not manipulate or wants to cause tremendous pain. They only do and say things to playfully infuriate the person they like or leave them flustered. They are not sadistic as a sadodere is.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652181968399,
+      "displayName": "Hiyakasudere",
+      "id": "706591d3-7242-4db0-bbf8-5a1573d84bb3",
+      "keys": [
+        "Hiyakasudere",
+        "hiyakasudere",
+        "Teasedere",
+        "teasedere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Erodere characters will act perverted and lustful at first, but will become lovestruck and more embarrassed after experiencing true love.\n\nErodere characters will acts perverted at first, but when they get to know the love interest more, they become lovey-dovey and grow a more pure and sweet love towards them.\n\nThey will act perverted and seductive in front of others and mostly the love interest to hide their real feelings of love. They will pretend to be only lustful and lewd, but they are actually more vulnerable and romantic than what they let on.\n\nThey can also be characters with a lewd streak, being flirtatious and lustful with others, talking with people with some hints of suggestive themes. They don't hesitate to propose perverted things to anyone who catches their attention or might be interested. Despite this, once they find true love, they will be less perverted, at least with other people.\n\nThis is a more extreme and erotic version of hiyakasudere. While hiyakasudere characters will only try to flirt with the love interest, the erodere will be much more direct and suggest, think, do and talk about more intimate acts and situations. Erodere characters will be more dirty when talking, while hiyakasudere characters will be more charming instead, but respectful of what they can arrive to say, usually just trying to be seductive enough to tease a little bit the love interest or gain their hearts.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1652182072106,
+      "displayName": "Erodere",
+      "id": "a3aca770-592f-42bf-8892-1605f09a096b",
+      "keys": [
+        "Erodere",
+        "erodere"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "orderByKeyLocations": false
+  },
+  "categories": [
+    {
+      "name": "Character Archetypes",
+      "id": "b01927e6-49b5-4ef1-adc1-340170049bb7",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        }
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1652177098488,
+        "displayName": "New Lorebook Entry",
+        "id": "126589ad-62a7-4901-a3ec-2830d09ecc88",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": true
+    },
+    {
+      "name": "Characters",
+      "id": "17a9d558-220e-4fb3-a00e-cddb69bc0312",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        }
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1652177235960,
+        "displayName": "New Lorebook Entry",
+        "id": "2b148518-fc9d-4f5d-9b7c-49fdb9f1ed0f",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    }
+  ]
+}
